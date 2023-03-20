@@ -16,3 +16,26 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.input-timer {
+  padding: 15px;
+  padding-left: 60px;
+}
+
+.input-timer:hover {
+  background-color: blanchedalmond;
+  border: 1px dotted;
+}
+.input-timer:focus {
+  background-color: rgb(226, 216, 216);
+}
+
+.button-timer {
+  width: 130px;
+  height: 49px;
+}
+.button-timer:hover {
+  background-color: azure;
+  color: black;
+  border: 1px dotted;
+}
